@@ -1,0 +1,10 @@
+<!--
+    Input:
+        hardware/oplus/aidl/performance/vendor.oplus.hardware.performance-service.xml
+-->
+<manifest version="9.0" type="device">
+    <hal format="aidl">
+        <name>vendor.oplus.hardware.performance</name>
+        <fqname>IPerformance/default</fqname>
+    </hal>
+</manifest>

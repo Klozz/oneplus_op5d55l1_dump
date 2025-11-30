@@ -1,0 +1,39 @@
+# Audio
+af.fast_track_multiplier=1
+audio.deep_buffer.media=true
+audio.offload.min.duration.secs=30
+audio.offload.video=true
+
+# Bluetooth
+bluetooth.server.automatic_turn_on=true
+
+# Display
+ro.surface_flinger.supports_background_blur=1
+
+# Miscellaneous
+debug.graphics.game_default_frame_rate.disabled=true
+is_expressive_design_enabled=true
+persist.sysui.disableBlur=0
+persist.wm.extensions.enabled=true
+ro.af.client_heap_size_kbyte=7168
+ro.appsearch.feature.enable_isolated_storage=
+ro.com.android.mobiledata=false
+ro.com.google.gmsversion=15_202408
+ro.config.alarm_alert=Fresh_morning.ogg
+ro.config.notification_sound=Kernel.ogg
+ro.config.ringtone=The_next_adventure.ogg
+ro.input.video_enabled=false
+ro.launcher.blur.appLaunch=0
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+ro.opa.eligible_device=true
+ro.product.build.16k_page.enabled=false
+ro.product.build.version.sdk_full=36.0
+ro.product.cpu.pagesize.max=16384
+ro.product.marketname=OnePlus 13
+ro.product.page_size=4096
+ro.setupwizard.rotation_locked=true
+ro.sf.blurs_are_expensive=1
+ro.storage_manager.show_opt_in=false
+ro.support_one_handed_mode=true
+setupwizard.feature.day_night_mode_enabled=true
+

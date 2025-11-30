@@ -1,0 +1,20 @@
+## qssi_64-user 16 BP2A.250605.015 1762797805266 release-keys
+- Manufacturer: oneplus
+- Platform: sun
+- Codename: OP5D55L1
+- Brand: OnePlus
+- Flavor: lineage_dodge-user
+- Release Version: 16
+- Kernel Version: 6.6.111
+- Id: BP2A.250805.005
+- Incremental: 1764195244
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: OnePlus/CPH2653EEA/OP5D55L1:16/BP2A.250605.015/V.R4T3.31c67c8-110000d-110000a:user/release-keys
+- OTA version: 
+- Branch: qssi_64-user-16-BP2A.250605.015-1762797805266-release-keys
+- Repo: oneplus_op5d55l1_dump

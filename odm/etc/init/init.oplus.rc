@@ -1,0 +1,32 @@
+#
+# Copyright (C) 2022-2025 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+import /odm/etc/init/hw/init.oplus.display.rc
+import /odm/etc/init/hw/init.oplus.wifi.rc
+
+on fs
+    # Update touchpanel firmware in case we ship newer firmware in /odm
+    write /proc/touchpanel/tp_fw_update 0
+
+on post-fs-data
+    # ADSP ramdump
+    mkdir /data/vendor/mmdump 0777 system system
+    chmod 0777 /data/vendor/mmdump
+    mkdir /data/vendor/mmdump/adsp 0777 system system
+    chmod 0777 /data/vendor/mmdump/adsp
+
+    # Multimedia feedback
+    chown media media /proc/mm_fb
+
+on property:ro.boot.prjname=*
+    # Display
+    setprop ro.separate.soft ${ro.boot.prjname}
+
+on property:sys.boot_completed=1
+    # Widevine
+    copy /vendor/etc/oplus_Widevine_licenses.pfm /mnt/vendor/persist/data/pfm/licenses/oplus_Widevine_licenses.pfm
+    chmod 0600 /mnt/vendor/persist/data/pfm/licenses/oplus_Widevine_licenses.pfm
+    chown system system /mnt/vendor/persist/data/pfm/licenses/oplus_Widevine_licenses.pfm

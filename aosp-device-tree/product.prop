@@ -1,0 +1,44 @@
+# Audio
+af.fast_track_multiplier=1
+audio.deep_buffer.media=true
+audio.offload.min.duration.secs=30
+audio.offload.video=true
+
+# Display
+debug.sf.enable_transaction_tracing=false
+
+# Media
+media.recorder.show_manufacturer_and_model=true
+
+# Wi-Fi
+ro.wifi.channels=
+
+# Miscellaneous
+dalvik.vm.systemuicompilerfilter=speed
+net.tethering.noprovisioning=true
+persist.sys.strictmode.disable=true
+persist.wm.extensions.enabled=true
+ro.af.client_heap_size_kbyte=7168
+ro.build.version.sdk_full=36.1
+ro.com.android.mobiledata=false
+ro.config.alarm_alert=Hassium.ogg
+ro.config.notification_sound=Argon.ogg
+ro.config.ringtone=Orion.ogg
+ro.control_privapp_permissions=enforce
+ro.lineage.build.version=23.2
+ro.lineage.device=dodge
+ro.lineage.display.version=23-20260208-NIGHTLY-dodge
+ro.lineage.releasetype=NIGHTLY
+ro.lineage.version=23.2-20260208-NIGHTLY-dodge
+ro.lineagelegal.url=https://lineageos.org/legal
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+ro.ota.allow_downgrade=true
+ro.product.build.16k_page.enabled=false
+ro.product.build.version.sdk_full=36.1
+ro.product.cpu.pagesize.max=16384
+ro.product.page_size=4096
+ro.storage_manager.enabled=true
+ro.support_one_handed_mode=true
+setupwizard.feature.day_night_mode_enabled=true
+traced.relay_producer_port=vsock://-1:2010
+

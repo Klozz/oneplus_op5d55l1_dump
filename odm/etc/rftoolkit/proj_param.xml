@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RFTOOLKIT version="V2">
+    <GeneralMode mode="QtTest, Expert, Factory">
+     <RAT name="GSM">
+        <GeneralConfig name="Power">
+            <!-- by db/100 -->
+            <default>3000</default>
+                <Band number="850, 900">
+                    <default>3400</default>
+                </Band>
+                <Band number="1800">
+                    <default>3100</default>
+                </Band>
+        </GeneralConfig>
+    </RAT>
+    <RAT name="LTE">
+        <!-- by db/100 -->
+        <GeneralConfig name="Power">
+            <Band number="1">
+                <default>2700</default>
+            </Band>
+            <Band number="40">
+                <default>2800</default>
+            </Band>
+            <Band number="41">
+                <default>2800</default>
+            </Band>
+            <Band type="Any">
+                <default>2600</default>
+            </Band>
+        </GeneralConfig>
+    </RAT>
+    <RAT name="NR5G">
+        <!-- by db/100 -->
+        <GeneralConfig name="Power">
+            <Band number="1">
+                <default>2700</default>
+            </Band>
+            <Band number="28">
+                <default>2700</default>
+            </Band>
+            <Band number="40">
+                <default>2700</default>
+            </Band>
+            <Band number="41">
+                <default>2750</default>
+            </Band>
+            <Band number="78">
+                <default>2700</default>
+            </Band>
+            <Band type="Any">
+                <default>2600</default>
+            </Band>
+        </GeneralConfig>
+    </RAT>
+    </GeneralMode>
+    <GeneralMode mode="NPT">
+    <RAT name="GSM">
+        <GeneralConfig name="Power">
+            <!-- by db/100 -->
+            <default>3000</default>
+                <Band number="850, 900">
+                    <default>3400</default>
+                </Band>
+                <Band number="1800">
+                    <default>3100</default>
+                </Band>
+        </GeneralConfig>
+    </RAT>
+    <RAT name="LTE">
+        <!-- by db/100 -->
+        <GeneralConfig name="Power">
+            <Band number="1">
+                <default>2700</default>
+            </Band>
+            <Band number="40">
+                <default>2800</default>
+            </Band>
+            <Band number="41">
+                <default>2800</default>
+            </Band>
+            <Band type="Any">
+                <default>2600</default>
+            </Band>
+        </GeneralConfig>
+    </RAT>
+    <RAT name="NR5G">
+        <!-- by db/100 -->
+        <GeneralConfig name="Power">
+            <Band number="1">
+                <default>2700</default>
+            </Band>
+            <Band number="28">
+                <default>2700</default>
+            </Band>
+            <Band number="40">
+                <default>2700</default>
+            </Band>
+            <Band number="41">
+                <default>2750</default>
+            </Band>
+            <Band number="78">
+                <default>2700</default>
+            </Band>
+            <Band type="Any">
+                <default>2600</default>
+            </Band>
+        </GeneralConfig>
+        <GeneralConfig name="StartRB">
+            <Band number="40">
+                <default>1</default>
+            </Band>
+            <Band number="41">
+                <default>1</default>
+            </Band>
+            <Band number="77">
+                <default>1</default>
+            </Band>
+            <Band number="78">
+                <default>1</default>
+            </Band>
+        </GeneralConfig>
+        <GeneralConfig name="RBNumber">
+            <Band number="40">
+                <default>1</default>
+            </Band>
+            <Band number="41">
+                <default>1</default>
+            </Band>
+            <Band number="77">
+                <default>1</default>
+            </Band>
+            <Band number="78">
+                <default>1</default>
+            </Band>
+            <Band number="30">
+                <default>1</default>
+            </Band>
+        </GeneralConfig>
+        <GeneralConfig name="Bandwidth">
+            <Band number="30">
+                <default>5000</default>
+            </Band>
+        </GeneralConfig>
+    </RAT>
+    </GeneralMode>
+</RFTOOLKIT>

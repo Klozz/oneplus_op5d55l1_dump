@@ -1,0 +1,4 @@
+<filter-conf>
+    <inputThreadSchedConfig inputThreadSchedEnable="true"/>
+    <inputResampleConfig inputResampleEnable="true" inputResampleLatency="5" />
+</filter-conf>

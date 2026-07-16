@@ -1,0 +1,127 @@
+[
+  {
+        "project":"23893",
+        "name":"default",
+        "product":"CPH2649IN",
+        "device":"OP5D55L1",
+        "model":"CPH2649",
+	"manufacturer": "OnePlus",
+        "brand": "OnePlus",
+	"first_api_level" : "35",
+	"rsa_level": "R4T3",
+	"product_name":"CPH2649IN",
+	"market":"CPH2649",
+	"codename":"16",
+        "release" :"16",
+        "base_oses": [
+            {
+              "16": "OnePlus/CPH2649IN/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OnePlus/CPH2649IN/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"23893",
+        "name":"in",
+        "product":"CPH2649IN",
+        "device":"OP5D55L1",
+        "model":"CPH2649",
+	"manufacturer": "OnePlus",
+        "brand": "OnePlus",
+	"first_api_level" : "35",
+	"rsa_level": "R4T3",
+	"product_name":"CPH2649IN",
+	"market":"CPH2649",
+	"codename":"16",
+        "release" :"16",
+        "base_oses": [
+            {
+              "16": "OnePlus/CPH2649IN/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OnePlus/CPH2649IN/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"23893",
+        "name":"eea",
+        "product":"CPH2653EEA",
+        "device":"OP5D55L1",
+        "model":"CPH2653",
+	"manufacturer": "OnePlus",
+        "brand": "OnePlus",
+	"first_api_level" : "35",
+	"rsa_level": "R4T3",
+	"product_name":"CPH2653EEA",
+	"market":"CPH2653",
+	"codename":"16",
+        "release" :"16",
+        "base_oses": [
+            {
+              "16": "OnePlus/CPH2653EEA/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OnePlus/CPH2653EEA/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"23893",
+        "name":"us",
+        "product":"CPH2655",
+        "device":"OP5D55L1",
+        "model":"CPH2655",
+	"manufacturer": "OnePlus",
+        "brand": "OnePlus",
+	"first_api_level" : "35",
+	"rsa_level": "R4T3",
+	"product_name":"CPH2655",
+	"market":"CPH2655",
+	"codename":"16",
+        "release" :"16",
+        "base_oses": [
+            {
+              "16": "OnePlus/CPH2655/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OnePlus/CPH2655/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ]
+  },
+  {
+        "project":"23893",
+        "name":"row",
+        "product":"CPH2653",
+        "device":"OP5D55L1",
+        "model":"CPH2653",
+	"manufacturer": "OnePlus",
+        "brand": "OnePlus",
+	"first_api_level" : "35",
+	"rsa_level": "R4T3",
+	"product_name":"CPH2653",
+	"market":"CPH2653",
+	"codename":"16",
+        "release" :"16",
+        "base_oses": [
+            {
+              "16": "OnePlus/CPH2653/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OnePlus/CPH2653/OP5D55L1:16/BP2A.250605.015/V.R4T3.4c284fa-2c4eb55-2c4eb54:user/release-keys"
+            }
+        ]
+  }
+]

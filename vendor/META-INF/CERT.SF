@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: /01a9JAN3rYo0A49Cu7NN2jtuoOLTSslm/h6XrQ9/2k=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Uq2VX3dJ6Yovi9cgJdIBwBNVLXP4BExgBdywX6NiO4Y=
+
+Name: apex_build_info.pb
+SHA-256-Digest: fJLzti6APvXlUDOdFiPuoV4L6EoEObfPzspordgIkH0=
+
+Name: apex_manifest.pb
+SHA-256-Digest: t6d7G6/Hk4wZwIe9YRUjCQPKqBqGMBvTTfRCb2DW6GM=
+
+Name: apex_payload.img
+SHA-256-Digest: SuXk//bZuCForMTjZ+4tanQ4TxGMPo3SHsZoW6rMF6o=
+
+Name: apex_pubkey
+SHA-256-Digest: b7IYF/F8Ibbr93FGIA+gYdykVgHCRbGw8eF2Xy4rrKM=
+
+Name: assets/NOTICE.html.gz
+SHA-256-Digest: bxmJY+ZbBRCBGomyaTH6KY2hl9FPxZwvAuCRzdtPY4c=
+
+Name: resources.arsc
+SHA-256-Digest: WI7ra9otg9dpCR3VQ1+hGvOUf/iB0oxzAf1HWkM8CU4=
+
